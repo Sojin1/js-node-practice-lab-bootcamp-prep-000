@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "Joe"
+var name = "Kimbo Slice"
 
 var height = "74"
 
